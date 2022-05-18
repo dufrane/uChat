@@ -1,4 +1,4 @@
-<p align="center"> :airplane::tram::ship: travel_chat - is a chat with basic user interface which idea was to make life easier for people who are used to traveling, and now are limited in movement during the quarantine period, while traveling abroad is problematic</p>
+<p align="center"> :airplane::tram::ship: uChat - is a chat for trevelers with basic user interface which idea was to make life easier for people who are used to traveling, and now are limited in movement during the quarantine period, while traveling abroad is problematic</p>
 
 #  
 
