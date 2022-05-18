@@ -17,11 +17,11 @@ Skills: C, Makefile, Git, Gtk, Glade, SQlite
 
 ## Screenshots of chat presentation
 
-<a href="https://github.com/dufrane/travel_chat" target="_blank">
-  <img src="https://github.com/dufrane/travel_chat/blob/main/.git_images/screenshot1.png?raw=true">
+<a href="https://github.com/dufrane/uChat" target="_blank">
+  <img src="https://github.com/dufrane/uChat/blob/main/.git_images/screenshot1.png?raw=true">
 </a>
-<a href="https://github.com/dufrane/travel_chat" target="_blank">
-  <img src="https://github.com/dufrane/travel_chat/blob/main/.git_images/screenshot2.png?raw=true">
+<a href="https://github.com/dufrane/uChat" target="_blank">
+  <img src="https://github.com/dufrane/uChat/blob/main/.git_images/screenshot2.png?raw=true">
 </a>
 
 
